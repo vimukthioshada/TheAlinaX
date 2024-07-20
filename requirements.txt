@@ -13,7 +13,7 @@ aiofiles==0.7.0  # Added specific version
 requests==2.26.0  # Updated to the latest stable version
 pyshorteners==1.0.1  # Added specific version
 beautifulsoup4==4.10.0  # Updated to the latest stable version
-IMDbPY==2022.1.1  # Updated to the latest stable version
+IMDbPY==2022.7.9  # Updated to the latest stable version
 youtube-search-python==1.6.3  # Updated to the latest stable version
 youtube-search==1.0.1  # Added specific version
 youtube-dl==2022.4.25  # Updated to the latest stable version
