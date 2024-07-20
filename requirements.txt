@@ -19,6 +19,6 @@ youtube-search
 yt-dlp==2023.2.17
 wget==3.2  # Added specific version
 python-arq==6.0.7
-ffmpeg-python==0.3.0  # Added specific version
+ffmpeg-python==0.2.0 # Added specific version
 ytthumb==1.1  # Added specific version
 pyrogram==1.3.0  # Updated to the latest stable version
